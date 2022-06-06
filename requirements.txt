@@ -1,2 +1,3 @@
 hashids
 pytest
+pytest-cov
