@@ -14,7 +14,7 @@ phases:
             - cd /home/app
     build:
         commands:
-            - python -m pytest tests/ --junitxml=./test-reports/unittest.xml --cov=api --cov-report=xml:test-reports/coverage.xml
+            - python -m pytest tests/ --junitxml=./test-reports/unittest.xml --cov=api/url_shortner_api.py --cov-report=xml:test-reports/coverage.xml
 reports:
     pytest_reports:
         files:
