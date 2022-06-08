@@ -1,7 +1,7 @@
 # URL Shortener in the Cloud
 
 ## What is this application do?
-Provide a REST service that takes a long version of an URL and creates a shortened link.
+Provides a REST service that takes a long version of an URL and creates a shortened link.
 For example: `https://www.gramann-ahrberg.de/filialen/filialen/ -> scth.io/byos1t34K`
 
 ## Characteristics
